@@ -1,5 +1,6 @@
 ## Personal Finance Dashboard Project
 ### Dashboard Overview [Link](https://drive.google.com/file/d/1-9YUfaZoRd8E_s7epIW5d0hvLYLLN_x8/view?usp=sharing)
+![Personal Finance Dashboard](https://github.com/user-attachments/assets/b38adbbb-f154-4c73-bf12-95184e0765e4)
 This dashboard provides a detailed view of personal financial data, including expenses, savings, and income trends over time. It allows users to track their financial health, set savings targets, and analyze spending patterns. The dashboard is built using Power BI to deliver interactive and visually engaging insights.
 
 ## Key Questions Addressed:
