@@ -1,18 +1,18 @@
 ## Personal Finance Dashboard Project
-### Dashboard Overview
+### Dashboard Overview [Link](https://drive.google.com/file/d/1-9YUfaZoRd8E_s7epIW5d0hvLYLLN_x8/view?usp=sharing)
 This dashboard provides a detailed view of personal financial data, including expenses, savings, and income trends over time. It allows users to track their financial health, set savings targets, and analyze spending patterns. The dashboard is built using Power BI to deliver interactive and visually engaging insights.
 
 ## Key Questions Addressed:
 -How do my expenses compare to my savings?
--What percentage of my income am I saving each month?
--What are the major components of my expenses (e.g., Groceries, Rent, EMIs)?
--How are my savings allocated across different investment types (e.g., Liquid Cash, Fixed Deposit)?
-## Dashboard Link
-You can access the dashboard by clicking here.
 
-## Tools Used
-Power BI Desktop
-Used for loading, transforming, and visualizing financial data through interactive visuals such
+-What percentage of my income am I saving each month?
+
+-What are the major components of my expenses (e.g., Groceries, Rent, EMIs)?
+
+-How are my savings allocated across different investment types (e.g., Liquid Cash, Fixed Deposit)?
+
+## [Dashboard link](https://drive.google.com/file/d/1K90BC3bvJwdrJsXZTk94V5SFcDujAfzt/view?usp=sharing)
+You can access the dashboard by clicking here.
 
 ## Tools Used
 For building this dashboard, the following tools were employed:
@@ -51,6 +51,7 @@ Dashboard Design Applied a modern, minimalist theme to the dashboard to enhance 
 Total Savings: Total Savings = SUM(Finance[Savings])
 Savings Percentage: Savings % = DIVIDE([Total Savings], [Total Income])
 Total Expenses: Total Expenses = SUM(Finance[Expenses])
+
 ## Visualizations
 Savings Trends by Date A line chart showcasing savings growth over time.
 
@@ -68,7 +69,8 @@ Expense Distribution Major expense categories include Groceries (30%), Rent (25%
 Income and Savings Ratio On average, 64% of income was saved in the last quarter of 2023.
 
 ## How to Access and Use the Dashboard
-### Click on the dashboard link: Personal Finance Dashboard
+
+### Click on the dashboard link:[Personal Finance Dashboard](https://drive.google.com/drive/folders/11dnaE4pWfhPGwv2ywOQeSick2G5DPlMJ?usp=sharing)
 
 Filters: Use the year and month filters to view financial data for specific periods.
 Interactive Visuals: Hover over charts to view detailed information.
@@ -77,5 +79,4 @@ Screenshots & Screen recording
 ## Conclusion
 The Personal Finance Dashboard provides an intuitive and detailed view of your financial data, helping you make informed decisions about saving and spending. It offers a snapshot of key metrics like income, expenses, and savings percentage, ensuring a clear understanding of your financial health.
 
-#### Author: Uday Kiran Vanapalli
-September 2024
+### Author: Uday Kiran Vanapalli
